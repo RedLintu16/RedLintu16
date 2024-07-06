@@ -20,4 +20,4 @@
 ## Reach me
 [![Email](https://img.shields.io/badge/16redprez%40gmail.com-3873C4?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:16redprez@gmail.com)
 
-[![Telegram](https://img.shields.io/badge/%40Red_Prez16-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/RedLintu16)
+[![Telegram](https://img.shields.io/badge/%40RedLintu16-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/RedLintu16)

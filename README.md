@@ -7,7 +7,7 @@
 
 - An Android enthusiast
 
-- Current Device: Google Pixel 8a and iPhone 14 Pro Max (Jailbroken)
+- Current Device: Samsung Galaxy S24 Ultra and OnePlus 12
 
 - Interested in Android, Windows, Linux, macOS, iOS, and other stuff too. 
 
